@@ -1,7 +1,7 @@
 # lab-01b-github-markdown
 
-##How I created a Repository
-###By Rosalie Lee
+## How I created a Repository
+### By Rosalie Lee
 
 1. Login to *Github* account
 1. Create a new repository
@@ -13,8 +13,8 @@
 1. `git clone <insert HTTP link>`
 1. cd into cloned repo
 
-#Schedule for Alchemy Code Lab
-gi
+# Schedule for Alchemy Code Lab
+
 | Monday       | Tuesday      | Wendesday    | Thursday     | Friday       |
 |--------------|--------------|--------------|--------------|--------------|
 | 9-12 Lecture | 9-12 Lecture | 9-12 Lecture | 9-12 Lecture | 9-12 Lecture |
